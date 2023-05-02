@@ -2,7 +2,7 @@
 
 - ☕ Hoje trabalho como freelancer full-stack
 - 🤓 Estudando JavaScript e React 
-- 🤔 Em busca da entrada no mercado como dev
+- 💼 Open to Work
 - 📫 Entre em contato: (11)91367-0065 
 - 📩 matheusferrazo_@hotmail.com 
 
