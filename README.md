@@ -4,7 +4,7 @@
 - 🤓 Estudando JavaScript e React 
 - 💼 Open to Work
 - 📫 Entre em contato: (11)91367-0065 
-- 📩 matheusferrazo_@hotmail.com 
+- 📩 contatomatheus.oferraz@gmail.com 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
