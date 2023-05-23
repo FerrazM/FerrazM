@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Ferraz 👋
 
 - ☕ Hoje trabalho como freelancer full-stack
-- 🤓 Estudando JavaScript e React 
+- 🤓 Estudando NodeJS e React 
 - 💼 Open to Work
 - 📫 Entre em contato: (11)91367-0065 
 - 📩 contatomatheus.oferraz@gmail.com 
