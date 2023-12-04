@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Matheus Ferraz 👋
 
-- ☕ Hoje trabalho como freelancer full-stack
-- 🤓 Estudando NodeJS e React 
-- 💼 Open to Work
+- ☕ Hoje trabalho como freelancer full-stack & Dev na empresa New Salles
+- 🤓 Estudando React 
+- 💼 Trabalhando
 - 📫 Entre em contato: (11)91367-0065 
 - 📩 contatomatheus.oferraz@gmail.com 
 
