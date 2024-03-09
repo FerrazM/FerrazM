@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus Ferraz 👋
 
-- ☕ Hoje trabalho como freelancer full-stack & Dev na empresa New Salles
+- ☕ Hoje trabalho como Dev na empresa New Salles
 - 🤓 Estudando React 
 - 💼 Trabalhando
 - 📫 Entre em contato: (11)91367-0065 
