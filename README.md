@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Matheus Ferraz 👋
 
-- ☕ Hoje trabalho como Dev na empresa New Salles
+- ☕ Hoje trabalho como Dev na Leedz
 - 🤓 Estudando React 
-- 💼 Trabalhando
+- 💼 Desenvolvendo soluções para negócios no marketing digital 
 - 📫 Entre em contato: (11)91367-0065 
 - 📩 contatomatheus.oferraz@gmail.com 
 
