@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Matheus Ferraz 👋
 
-- ☕ Hoje trabalho como Dev na Leedz
-- 🤓 Estudando React 
+- ☕ Dev React
 - 💼 Desenvolvendo soluções para negócios no marketing digital 
-- 📫 Entre em contato: (11)91367-0065 
+- 📫 Entre em contato: (11)98862-8578 
 - 📩 contatomatheus.oferraz@gmail.com 
 
 <div style="display: inline_block"><br>
