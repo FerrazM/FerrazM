@@ -9,6 +9,7 @@
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-TS" height="40" width="45" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000">
+  <img align="center" alt="Matheus-TS" height="40" width="45" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
